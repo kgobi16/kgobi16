@@ -1,4 +1,4 @@
-## Hi there I an Tlaitirang Sekgobela Rathete a full stack developer.
+## Hi there I am Tlaitirang Sekgobela Rathete a full stack developer.
  
  🌱 I’m currently studying my Master of Information Technology degree at University of Technology Sydney
  
